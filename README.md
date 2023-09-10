@@ -16,17 +16,23 @@ Welcome to my GitHub profile!
 
 ## 🌐 Featured Projects
 
+### ✨ Warehouse Robot Simulation
+<!---
+[![WiseWay](https://github-readme-stats.vercel.app/api/pin/?username=michalhubara&repo=wiseway)](https://github.com/michalhubara/wiseway)
+--->
+This C# application simulates the operation of a warehouse managed by autonomous robots. Robots are programmed to move around the warehouse, pick up and deliver items, and avoid collisions. The project includes a simple graphical user interface (GUI) for visualization and interaction.
+
 ### ✨ Facebook Profile Viewer
 <!---
 [![Facebook](https://github-readme-stats.vercel.app/api/pin/?username=michalhubara&repo=facebook)](https://github.com/michalhubara/facebook)
 --->
-This project aims to develop a small system that displays a user's Facebook profile picture, name, and feed (posts). The feed should be ordered by the date of each post in descending order.
+This Scala project aims to develop a small system that displays a user's Facebook profile picture, name, and feed (posts). The feed should be ordered by the date of each post in descending order.
 
 ### ✨ Restaurant Order Management System
 <!---
 [![Restaurant](https://github-readme-stats.vercel.app/api/pin/?username=michalhubara&repo=restserver)](https://github.com/michalhubara/restserver)
 --->
-This project implements a restaurant order management system REST APIs. It provides a PUT API endpoint that allows placing orders. The application is designed to run continuously, listening to a blocking queue and assigning orders to available chefs. If no chef is available, the process will wait until a chef becomes available to process the order.
+This Java project implements a restaurant order management system REST APIs. It provides a PUT API endpoint that allows placing orders. The application is designed to run continuously, listening to a blocking queue and assigning orders to available chefs. If no chef is available, the process will wait until a chef becomes available to process the order.
 
 ### ✨ AI Chatbot with Knowledge Bases
 <!---
