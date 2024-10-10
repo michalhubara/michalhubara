@@ -77,7 +77,7 @@ This C# application simulates the operation of a warehouse managed by autonomous
 
 ## 🎉 Thank You for Visiting My Profile!
 
-I appreciate you taking the time to explore my projects and contributions!
+I appreciate you taking the time to explore my projects and contributions.
 
 If you have any questions or suggestions, feel free to reach via my [LinkedIn](https://www.linkedin.com/in/michal-hubara-77a6ab96/) or [Email](mailto:michalhu91@gmail.com) .
 
