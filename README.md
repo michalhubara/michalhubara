@@ -3,7 +3,16 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-MichalHubara-blue)](https://www.linkedin.com/in/michal-hubara-77a6ab96/)
 [![Gmail](https://img.shields.io/badge/Gmail-michalhu91@gmail.com-red)](mailto:michalhu91@gmail.com)
 
-Welcome to my GitHub profile! 
+Hello! I'm a senior software developer and former team manager with 12 years of experience in the industry. I specialize in **.NET** development, particularly in my current freelance project, but I’ve also worked extensively across other technologies.
+
+- 💻 **Technologies**: Proficient in **.NET**, **Java**, **Python**, and cloud-based systems, particularly on **AWS**.
+- 👨‍💼 **Experience**: I have a strong background in leading teams and solving complex software challenges, having managed and developed solutions for over a decade.
+- 🔧 **Current Focus**: At the moment, my work is primarily focused on .NET technologies.
+- 👩‍🏫 **Mentoring**: In 2024, I completed mentoring students contributing to the **Checkov** open-source project, helping them learn cloud infrastructure security.
+- 🚀 **Skills**: I’m driven by a passion for problem-solving and self-learning, and I’m always eager to explore new environments and technologies.
+
+Feel free to connect with me on LinkedIn or reach out via Email!
+
 
 ## 🔧 Technologies & Tools
 
@@ -24,6 +33,16 @@ Welcome to my GitHub profile!
 
 ![Michal Hubara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=michalhubara&show_icons=true)
 
+## 🛠 Open Source Contributions
+
+### Checkov Fork by Palo Alto Networks
+I lead and mentor a team of students contributing to [Checkov](https://github.com/bridgecrewio/checkov), an open-source tool for securing cloud infrastructure as code.
+
+- **Mentorship Role**: I help students understand cloud security concepts and guide them through code contributions, pull requests, and maintaining code quality.
+- **Technologies**: Python, Cloud Infrastructure Security, Continuous Integration (CI)
+
+
+
 ## 🌐 Featured Projects
 
 ### ✨ Book Lending System (2024)
@@ -31,6 +50,7 @@ Welcome to my GitHub profile!
 [![Book Lending System](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=book-lending-system)](https://github.com/yourusername/book-lending-system)
 --->
 An ASP.NET Core and Angular project for managing a library's book lending process.
+This project built with ASP.NET Core for the backend, Angular for the frontend, and MongoDB as the database. The system allows users to manage books, register and login as users, borrow and return books, and track the borrowing history.
 
 ### ✨ AI Chatbot with Knowledge Bases (2023)
 <!---
