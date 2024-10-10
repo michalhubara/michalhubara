@@ -45,11 +45,10 @@ I lead and mentor a team of students contributing to [Checkov](https://github.co
 
 ## 🌐 Featured Projects
 
-### ✨ Book Lending System (2024)
+### ✨ Book Lending System (2024 - Present)
 <!---
 [![Book Lending System](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=book-lending-system)](https://github.com/yourusername/book-lending-system)
 --->
-An ASP.NET Core and Angular project for managing a library's book lending process.
 This project built with ASP.NET Core for the backend, Angular for the frontend, and MongoDB as the database. The system allows users to manage books, register and login as users, borrow and return books, and track the borrowing history.
 
 ### ✨ AI Chatbot with Knowledge Bases (2023)
