@@ -5,7 +5,7 @@
 
 Hello! I'm a senior software developer and former team manager with 12 years of experience in the industry. I specialize in **.NET** development, particularly in my current freelance project, but I’ve also worked extensively across other technologies.
 
-- 💻 **Technologies**: Proficient in **.NET**, **Java**, **Python**, and cloud-based systems, particularly on **AWS**.
+- 💻 **Technologies**: Proficient in **Java**, **Python**, **.NET**, and cloud-based systems, particularly on **AWS**.
 - 👨‍💼 **Experience**: I have a strong background in leading teams and solving complex software challenges, having managed and developed solutions for over a decade.
 - 🔧 **Current Focus**: At the moment, my work is primarily focused on .NET technologies.
 - 👩‍🏫 **Mentoring**: In 2024, I completed mentoring students contributing to the **Checkov** open-source project, helping them learn cloud infrastructure security.
