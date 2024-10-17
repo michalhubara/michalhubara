@@ -49,31 +49,31 @@ I lead and mentor a team of students contributing to [Checkov](https://github.co
 <!---
 [![Book Lending System](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=book-lending-system)](https://github.com/yourusername/book-lending-system)
 --->
-This project built with ASP.NET Core for the backend, Angular for the frontend, and MongoDB as the database. The system allows users to manage books, register and login as users, borrow and return books, and track the borrowing history.
+This project built with **ASP.NET Core** for the backend, **Angular** for the frontend, and **MongoDB** as the database. The system allows users to manage books, register and login as users, borrow and return books, and track the borrowing history.
 
 ### ✨ AI Chatbot with Knowledge Bases (2023)
 <!---
 [![ChatGPT](https://github-readme-stats.vercel.app/api/pin/?username=michalhubara&repo=chatgpt)](https://github.com/michalhubara/chatgpt)
 --->
-This project aims to train an AI Chatbot using Python and HTML that can search and answer natural language how-to and debug questions. The Chatbot is designed to have access to various knowledge bases and return accurate answers to users. Additionally, the bot can provide links to the source of the answer, allowing users to verify the information provided.
+This project aims to train an **AI Chatbot** using **Python** and **HTML** that can search and answer natural language how-to and debug questions. The Chatbot is designed to have access to various knowledge bases and return accurate answers to users. Additionally, the bot can provide links to the source of the answer, allowing users to verify the information provided.
 
 ### ✨ Restaurant Order Management System (2023)
 <!---
 [![Restaurant](https://github-readme-stats.vercel.app/api/pin/?username=michalhubara&repo=restserver)](https://github.com/michalhubara/restserver)
 --->
-This Java project implements a restaurant order management system REST APIs. It provides a PUT API endpoint that allows placing orders. The application is designed to run continuously, listening to a blocking queue and assigning orders to available chefs. If no chef is available, the process will wait until a chef becomes available to process the order.
+This **Java** project implements a restaurant order management system **REST APIs**. It provides a PUT API endpoint that allows placing orders. The application is designed to run continuously, listening to a blocking queue and assigning orders to available chefs. If no chef is available, the process will wait until a chef becomes available to process the order.
 
 ### ✨ Facebook Profile Viewer
 <!---
 [![Facebook](https://github-readme-stats.vercel.app/api/pin/?username=michalhubara&repo=facebook)](https://github.com/michalhubara/facebook)
 --->
-This Scala project aims to develop a small system that displays a user's Facebook profile picture, name, and feed (posts). The feed should be ordered by the date of each post in descending order.
+This **Scala** project aims to develop a small system that displays a user's Facebook profile picture, name, and feed (posts). The feed should be ordered by the date of each post in descending order.
 
 ### ✨ Warehouse Robot Simulation
 <!---
 [![WiseWay](https://github-readme-stats.vercel.app/api/pin/?username=michalhubara&repo=wiseway)](https://github.com/michalhubara/wiseway)
 --->
-This C# application simulates the operation of a warehouse managed by autonomous robots. Robots are programmed to move around the warehouse, pick up and deliver items, and avoid collisions. The project includes a simple graphical user interface (GUI) for visualization and interaction.
+This **C#** application simulates the operation of a warehouse managed by autonomous robots. Robots are programmed to move around the warehouse, pick up and deliver items, and avoid collisions. The project includes a simple graphical user interface (GUI) for visualization and interaction.
 
 ## 🎉 Thank You for Visiting My Profile!
 
