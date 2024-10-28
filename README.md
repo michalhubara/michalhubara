@@ -24,7 +24,7 @@ Feel free to connect with me on LinkedIn or reach out via Email!
 ![MongoDB](https://img.shields.io/badge/-MongoDB-555555?style=flat&logo=mongodb&logoColor=white)
 ![xUnit](https://img.shields.io/badge/-xUnit-555555?style=flat&logo=.net&logoColor=white)
 ![Moq](https://img.shields.io/badge/-Moq-555555?style=flat&logo=moq&logoColor=white)
-![NuGet](https://img.shields.io/badge/-NuGet-555555?style=flat&logo=nuget&logoColor=white)
+![NuGet](https://img.shields.io/badge/NuGet-555555?style=flat&logo=nuget&logoColor=white)
 ![npm](https://img.shields.io/badge/-npm-555555?style=flat&logo=npm&logoColor=white)
 
 
