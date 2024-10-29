@@ -8,7 +8,7 @@ Hello! I'm a senior software developer and former team manager with 12 years of 
 - 💻 **Technologies**: Proficient in **Java**, **Python**, **.NET**, and cloud-based systems, particularly on **AWS**.
 - 👨‍💼 **Experience**: I have a strong background in leading teams and solving complex software challenges, having managed and developed solutions for over a decade.
 - 🔧 **Current Focus**: At the moment, my work is primarily focused on .NET technologies.
-- 👩‍🏫 **Mentoring**: In 2024, I completed mentoring students contributing to the **Checkov** open-source project, helping them learn cloud infrastructure security.
+- 👩‍🏫 **Mentoring**: In 2024, I mentored students contributing to the **Checkov** open-source project, helping them learn cloud infrastructure security.
 - 🚀 **Skills**: I’m driven by a passion for problem-solving and self-learning, and I’m always eager to explore new environments and technologies.
 
 Feel free to connect with me on LinkedIn or reach out via Email!
@@ -35,7 +35,7 @@ Feel free to connect with me on LinkedIn or reach out via Email!
 
 ## 🛠 Open Source Contributions
 
-### Checkov Fork by Palo Alto Networks
+### Checkov Fork by Palo Alto Networks (2024)
 I lead and mentor a team of students contributing to [Checkov](https://github.com/bridgecrewio/checkov), an open-source tool for securing cloud infrastructure as code.
 
 - **Mentorship Role**: I help students understand cloud security concepts and guide them through code contributions, pull requests, and maintaining code quality.
