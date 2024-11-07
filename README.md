@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-MichalHubara-blue)](https://www.linkedin.com/in/michal-hubara-77a6ab96/)
 [![Gmail](https://img.shields.io/badge/Gmail-michalhu91@gmail.com-red)](mailto:michalhu91@gmail.com)
 
-Hello! I'm a senior software developer and former team manager with 12 years of experience in the industry. I specialize in **.NET** development, particularly in my current freelance project, but I’ve also worked extensively across other technologies.
+Hello! I'm a senior software developer and former team manager with 13 years of experience in the industry. I specialize in **.NET** development, particularly in my current freelance project, but I’ve also worked extensively across other technologies.
 
 - 💻 **Technologies**: Proficient in **Java**, **Python**, **.NET**, and cloud-based systems, particularly on **AWS**.
 - 👨‍💼 **Experience**: I have a strong background in leading teams and solving complex software challenges, having managed and developed solutions for over a decade.
