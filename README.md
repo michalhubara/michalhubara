@@ -49,7 +49,11 @@ I lead and mentor a team of students contributing to [Checkov](https://github.co
 <!---
 [![Book Lending System](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=book-lending-system)](https://github.com/yourusername/book-lending-system)
 --->
-This project built with **ASP.NET Core** for the backend, **Angular** for the frontend, and **MongoDB** as the database. The system allows users to manage books, register and login as users, borrow and return books, and track the borrowing history.
+A web application for managing book lending with role-based access.
+This project built with **ASP.NET Core** for the backend, **Angular** for the frontend, and **MongoDB** as the database. 
+The system allows users to manage books, register and login as users, borrow and return books, and track the borrowing history.
+  - [Backend (ASP.NET Core) API](https://webapp-sz2s.onrender.com/)  
+  - [Frontend (Angular) Application](https://booklending-ui-iy3f.onrender.com/)
 
 ### ✨ AI Chatbot with Knowledge Bases (2023)
 <!---
