@@ -1,9 +1,8 @@
 # 👋 Hello, I'm Michal Hubara
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-MichalHubara-blue)](https://www.linkedin.com/in/michal-hubara-77a6ab96/)
 [![Gmail](https://img.shields.io/badge/Gmail-michalhu91@gmail.com-red)](mailto:michalhu91@gmail.com)
 
-Hello! I'm a senior software developer and former team manager with 13 years of experience in the industry. I specialize in **.NET** development, particularly in my current freelance project, but I’ve also worked extensively across other technologies.
+I'm a senior software developer and former team manager with 13 years of experience in the industry. I specialize in **.NET** development, particularly in my current freelance project, but I’ve also worked extensively across other technologies.
 
 - 💻 **Technologies**: Proficient in **Java**, **Python**, **.NET**, and cloud-based systems, particularly on **AWS**.
 - 👨‍💼 **Experience**: I have a strong background in leading teams and solving complex software challenges, having managed and developed solutions for over a decade.
@@ -19,6 +18,7 @@ Feel free to connect with me on LinkedIn or reach out via Email!
 ![Java](https://img.shields.io/badge/-Java-555555?style=flat&logo=java&logoColor=white)
 ![Scala](https://img.shields.io/badge/-Scala-555555?style=flat&logo=scala&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-555555?style=flat&logo=python&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-555555?style=flat&logo=microsoftazure&logoColor=white) 
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-555555?style=flat&logo=dotnet&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-555555?style=flat&logo=angular&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-555555?style=flat&logo=mongodb&logoColor=white)
@@ -26,12 +26,6 @@ Feel free to connect with me on LinkedIn or reach out via Email!
 ![Moq](https://img.shields.io/badge/-Moq-555555?style=flat&logo=moq&logoColor=white)
 ![NuGet](https://img.shields.io/badge/NuGet-555555?style=flat&logo=nuget&logoColor=white)
 ![npm](https://img.shields.io/badge/-npm-555555?style=flat&logo=npm&logoColor=white)
-
-
-
-## 🏆 GitHub Stats
-
-![Michal Hubara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=michalhubara&show_icons=true)
 
 ## 🛠 Open Source Contributions
 
@@ -41,11 +35,9 @@ I lead and mentor a team of students contributing to [Checkov](https://github.co
 - **Mentorship Role**: I help students understand cloud security concepts and guide them through code contributions, pull requests, and maintaining code quality.
 - **Technologies**: Python, Cloud Infrastructure Security, Continuous Integration (CI)
 
-
-
 ## 🌐 Featured Projects
 
-### ✨ Book Lending System (2024 - Present)
+### ✨ Book Lending System (2024)
 <!---
 [![Book Lending System](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=book-lending-system)](https://github.com/yourusername/book-lending-system)
 --->
@@ -59,7 +51,7 @@ The system allows users to manage books, register and login as users, borrow and
 <!---
 [![ChatGPT](https://github-readme-stats.vercel.app/api/pin/?username=michalhubara&repo=chatgpt)](https://github.com/michalhubara/chatgpt)
 --->
-This project aims to train an **AI Chatbot** using **Python** and **HTML** that can search and answer natural language how-to and debug questions. The Chatbot is designed to have access to various knowledge bases and return accurate answers to users. Additionally, the bot can provide links to the source of the answer, allowing users to verify the information provided.
+This project leverages the **Azure OpenAI API (GPT-35-Turbo)** to train an AI Chatbot using Python and HTML. The Chatbot can search and answer natural language how-to and debug questions by accessing various knowledge bases. It provides accurate answers and includes links to the sources for verification, enhancing transparency and reliability.
 
 ### ✨ Restaurant Order Management System (2023)
 <!---
@@ -79,11 +71,11 @@ This **Scala** project aims to develop a small system that displays a user's Fac
 --->
 This **C#** application simulates the operation of a warehouse managed by autonomous robots. Robots are programmed to move around the warehouse, pick up and deliver items, and avoid collisions. The project includes a simple graphical user interface (GUI) for visualization and interaction.
 
-## 🎉 Thank You for Visiting My Profile!
 
+## 🎉 Thank You for Visiting My Profile!
 I appreciate you taking the time to explore my projects and contributions.
 
-If you have any questions or suggestions, feel free to reach via my [LinkedIn](https://www.linkedin.com/in/michal-hubara-77a6ab96/) or [Email](mailto:michalhu91@gmail.com) .
+If you have any questions or suggestions, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/michal-hubara-77a6ab96/) or [Email](mailto:michalhu91@gmail.com) .
 
 <!---
 michalhubara/michalhubara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
