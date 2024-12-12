@@ -18,9 +18,11 @@ Feel free to connect with me on LinkedIn or reach out via Email!
 ![Java](https://img.shields.io/badge/-Java-555555?style=flat&logo=java&logoColor=white)
 ![Scala](https://img.shields.io/badge/-Scala-555555?style=flat&logo=scala&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-555555?style=flat&logo=python&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-555555?style=flat&logo=microsoftazure&logoColor=white) 
+![C#](https://img.shields.io/badge/-C%23-555555?style=flat&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-555555?style=flat&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-555555?style=flat&logo=dotnet&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-555555?style=flat&logo=angular&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-555555?style=flat&logo=microsoftazure&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-555555?style=flat&logo=mongodb&logoColor=white)
 ![xUnit](https://img.shields.io/badge/-xUnit-555555?style=flat&logo=.net&logoColor=white)
 ![Moq](https://img.shields.io/badge/-Moq-555555?style=flat&logo=moq&logoColor=white)
@@ -36,6 +38,11 @@ I lead and mentor a team of students contributing to [Checkov](https://github.co
 - **Technologies**: Python, Cloud Infrastructure Security, Continuous Integration (CI)
 
 ## 🌐 Featured Projects
+
+<!---
+### ✨ XML to JSON Converter App (2024)
+This application parses XML files containing multiple product data, converts the data into a structured JSON format, and outputs it to a JSON file. It is built using **C#** and leverages **Newtonsoft.Json** for JSON serialization.
+--->
 
 ### ✨ Book Lending System (2024)
 <!---
