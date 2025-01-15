@@ -2,11 +2,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-MichalHubara-blue)](https://www.linkedin.com/in/michal-hubara-77a6ab96/)
 [![Gmail](https://img.shields.io/badge/Gmail-michalhu91@gmail.com-red)](mailto:michalhu91@gmail.com)
 
-I'm a senior software developer and former team manager with 13 years of experience in the industry. I specialize in **.NET** development, particularly in my last freelance project, but I’ve also worked extensively across other technologies.
+I have 13+ years of experience in software development, training, guidance, and leadership. I specialize in **.NET** development, particularly in my last freelance project, but I’ve also worked extensively across other technologies.
 
 - 💻 **Technologies**: Proficient in **Java**, **Python**, **.NET**, and cloud-based systems, particularly on **AWS**.
 - 👨‍💼 **Experience**: I have a strong background in leading teams and solving complex software challenges, having managed and developed solutions for over a decade.
-- 🔧 **Current Focus**: At the moment, my work is primarily focused on .NET technologies.
 - 👩‍🏫 **Mentoring**: In 2024, I mentored students contributing to the **Checkov** open-source project, helping them learn cloud infrastructure security.
 - 🚀 **Skills**: I’m driven by a passion for problem-solving and self-learning, and I’m always eager to explore new environments and technologies.
 
@@ -21,13 +20,23 @@ Feel free to connect with me on LinkedIn or reach out via Email!
 ![C#](https://img.shields.io/badge/-C%23-555555?style=flat&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-555555?style=flat&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-555555?style=flat&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-555555?style=flat&logo=node.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-555555?style=flat&logo=angular&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-555555?style=flat&logo=microsoftazure&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-555555?style=flat&logo=mongodb&logoColor=white)
+
 ![xUnit](https://img.shields.io/badge/-xUnit-555555?style=flat&logo=.net&logoColor=white)
 ![Moq](https://img.shields.io/badge/-Moq-555555?style=flat&logo=moq&logoColor=white)
 ![NuGet](https://img.shields.io/badge/NuGet-555555?style=flat&logo=nuget&logoColor=white)
 ![npm](https://img.shields.io/badge/-npm-555555?style=flat&logo=npm&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-555555?style=flat&logo=playwright&logoColor=white)
+
+![SQL](https://img.shields.io/badge/-SQL-555555?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-555555?style=flat&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-555555?style=flat&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-555555?style=flat&logo=mongodb&logoColor=white)
+
+![AWS](https://img.shields.io/badge/-AWS-555555?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-555555?style=flat&logo=microsoftazure&logoColor=white) 
+![Docker](https://img.shields.io/badge/-Docker-555555?style=flat&logo=docker&logoColor=white)
 
 ## 🛠 Open Source Contributions
 
@@ -79,7 +88,7 @@ This **Scala** project aims to develop a small system that displays a user's Fac
 This **C#** application simulates the operation of a warehouse managed by autonomous robots. Robots are programmed to move around the warehouse, pick up and deliver items, and avoid collisions. The project includes a simple graphical user interface (GUI) for visualization and interaction.
 
 
-## 🎉 Thank You for Visiting My Profile!
+## 🎉 Thank You for Visiting My Profile
 I appreciate you taking the time to explore my projects and contributions.
 
 If you have any questions or suggestions, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/michal-hubara-77a6ab96/) or [Email](mailto:michalhu91@gmail.com) .
