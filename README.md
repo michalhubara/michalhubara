@@ -2,11 +2,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-MichalHubara-blue)](https://www.linkedin.com/in/michal-hubara-77a6ab96/)
 [![Gmail](https://img.shields.io/badge/Gmail-michalhu91@gmail.com-red)](mailto:michalhu91@gmail.com)
 
-I have 13+ years of experience in software development, training, guidance, and leadership. I specialize in **.NET** development, particularly in my last freelance project, but I’ve also worked extensively across other technologies.
+13+ years of experience in software development, training, guidance, and leadership. Specialize in **Backend** development and have worked extensively across various technologies.
 
 - 💻 **Technologies**: Proficient in **Java**, **Python**, **.NET**, and cloud-based systems, particularly on **AWS**.
 - 👨‍💼 **Experience**: I have a strong background in leading teams and solving complex software challenges, having managed and developed solutions for over a decade.
-- 👩‍🏫 **Mentoring**: In 2024, I mentored students contributing to the **Checkov** open-source project, helping them learn cloud infrastructure security.
+- 👩‍🏫 **Mentoring**: I mentor students and developers in various technologies, providing guidance, code reviews, and best practices
 - 🚀 **Skills**: I’m driven by a passion for problem-solving and self-learning, and I’m always eager to explore new environments and technologies.
 
 Feel free to connect with me on LinkedIn or reach out via Email!
@@ -18,25 +18,34 @@ Feel free to connect with me on LinkedIn or reach out via Email!
 ![Scala](https://img.shields.io/badge/-Scala-555555?style=flat&logo=scala&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-555555?style=flat&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-555555?style=flat&logo=c-sharp&logoColor=white)
+
 ![.NET](https://img.shields.io/badge/-.NET-555555?style=flat&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-555555?style=flat&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-555555?style=flat&logo=node.js&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20API-555555?style=flat&logo=rest&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-555555?style=flat&logo=fastapi&logoColor=white)
+
 ![Angular](https://img.shields.io/badge/-Angular-555555?style=flat&logo=angular&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-555555?style=flat&logo=html5&logoColor=white)
 
 ![xUnit](https://img.shields.io/badge/-xUnit-555555?style=flat&logo=.net&logoColor=white)
 ![Moq](https://img.shields.io/badge/-Moq-555555?style=flat&logo=moq&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-555555?style=flat&logo=playwright&logoColor=white)
 ![NuGet](https://img.shields.io/badge/NuGet-555555?style=flat&logo=nuget&logoColor=white)
 ![npm](https://img.shields.io/badge/-npm-555555?style=flat&logo=npm&logoColor=white)
-![Playwright](https://img.shields.io/badge/-Playwright-555555?style=flat&logo=playwright&logoColor=white)
-
+ 
 ![SQL](https://img.shields.io/badge/-SQL-555555?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-555555?style=flat&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/-Oracle-555555?style=flat&logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-555555?style=flat&logo=mongodb&logoColor=white)
-
+ 
 ![AWS](https://img.shields.io/badge/-AWS-555555?style=flat&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-555555?style=flat&logo=microsoftazure&logoColor=white) 
+![Azure](https://img.shields.io/badge/-Azure-555555?style=flat&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-555555?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-555555?style=flat&logo=githubactions&logoColor=white)
+
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-555555?style=flat&logo=huggingface&logoColor=white)
+
 
 ## 🛠 Open Source Contributions
 
@@ -47,6 +56,14 @@ I lead and mentor a team of students contributing to [Checkov](https://github.co
 - **Technologies**: Python, Cloud Infrastructure Security, Continuous Integration (CI)
 
 ## 🌐 Featured Projects
+
+### ✨ AI-Powered Code Assistant (2025)
+A lightweight local AI model for answering programming-related queries. It leverages machine learning models to assist users in generating code, understanding programming tasks, and offering solutions based on input prompts.
+
+This project uses **Python** and **HTML** and includes:
+  - A **FastAPI backend** that processes code-related queries using **Hugging Face** models for code generation.
+  - A **frontend** that sends requests to the backend and displays results.
+  - **Documentation** on how to run the backend and frontend locally, including steps to **download and set up the AI model locally**.
 
 <!---
 ### ✨ XML to JSON Converter App (2024)
