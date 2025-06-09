@@ -26,6 +26,7 @@ Feel free to connect with me on LinkedIn or reach out via Email!
 ![FastAPI](https://img.shields.io/badge/-FastAPI-555555?style=flat&logo=fastapi&logoColor=white)
 
 ![Angular](https://img.shields.io/badge/-Angular-555555?style=flat&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/-React-555555?style=flat&logo=react&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-555555?style=flat&logo=html5&logoColor=white)
 
 ![xUnit](https://img.shields.io/badge/-xUnit-555555?style=flat&logo=.net&logoColor=white)
